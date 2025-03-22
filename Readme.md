@@ -118,8 +118,7 @@ java -version
 openjdk version "17.0.14"
 ```
 
----
-以下是你提供內容的 **Markdown（.md）格式** 中文版本，包含小標題與圖片佔位符，適合放入教學文件或 README 使用：
+
 
 ---
 
