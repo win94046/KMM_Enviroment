@@ -175,9 +175,6 @@ export JDK_HOME=/Users/adat/.jenv/versions/17
 
 📝 至此，你已成功完成 Android Studio / Xcode 的 KMM 開發環境建置！
 
-
-當然可以！以下是你提供的內容，已轉換為清晰且格式良好的 **Markdown (.md)** 文件，適合用於技術教學或專案 README：
-
 ---
 
 ## 📱 如何透過 Xcode 執行 iOS App
