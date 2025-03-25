@@ -174,3 +174,28 @@ export JDK_HOME=/Users/adat/.jenv/versions/17
 這樣就可以解決 Xcode 編譯 Kotlin Multiplatform Framework 時找不到 Java 環境的問題啦 ✅
 
 📝 至此，你已成功完成 Android Studio / Xcode 的 KMM 開發環境建置！
+
+
+當然可以！以下是你提供的內容，已轉換為清晰且格式良好的 **Markdown (.md)** 文件，適合用於技術教學或專案 README：
+
+---
+
+## 📱 如何透過 Xcode 執行 iOS App
+
+### 1️⃣ 開啟 iOS 專案資料夾
+
+使用 **Xcode** 開啟 **KMM 專案**中的 `iosApp` 資料夾。
+
+📁 路徑範例：  
+`YourKMMProject/iosApp`
+
+---
+
+### 2️⃣ 編譯並執行 App
+
+- 點選左上角的 **Build（播放 ▶️ 按鈕）**
+- 選擇模擬器或真實裝置後點擊 **Run**
+
+---
+
+✅ 執行成功後，iOS App 將會在模擬器或真機中啟動！
